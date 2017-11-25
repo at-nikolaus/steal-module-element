@@ -1,6 +1,6 @@
 # steal-module-element
 A Steal Module Element is like the Steal Module Script tag but enables Steal only once
-```html```
+```html
 <steal-module>
 import ViewModel from './myView.js'
 import view from './index.stache'
